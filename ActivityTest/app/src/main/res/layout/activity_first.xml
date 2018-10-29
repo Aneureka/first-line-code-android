@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/button_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_toast" />
+
+    <Button
+        android:id="@+id/button_destroy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_destroy" />
+
+    <Button
+        android:id="@+id/button_to_second"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_to_second" />
+
+    <Button
+        android:id="@+id/button_to_second_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_to_second_implicitly" />
+
+    <Button
+        android:id="@+id/button_open_browser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_open_browser" />
+
+    <Button
+        android:id="@+id/button_dial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_dial" />
+
+</LinearLayout>

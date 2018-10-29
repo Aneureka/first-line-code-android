@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="button_toast">Make a toast!</string>
+    <string name="button_destroy">Destroy this activity!</string>
+    <string name="button_to_first">Go to first activity!</string>
+    <string name="button_to_second">Go to second activity!</string>
+    <string name="button_to_second_implicitly">Go to second activity implicitly!</string>
+    <string name="button_open_browser">Open Chrome!</string>
+    <string name="button_dial">Make a call!</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_remove">Remove</string>
+</resources>
